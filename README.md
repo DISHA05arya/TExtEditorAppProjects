@@ -1,0 +1,2 @@
+# TExtEditorAppProjects
+Java Advance Project 
